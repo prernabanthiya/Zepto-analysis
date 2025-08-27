@@ -35,27 +35,34 @@ It provides actionable analysis for **pricing, inventory, supply chain, and mark
 ---
 
 ### 2️⃣ High MRP Products Frequently Out of Stock  
-📸 ![High MRP OOS Screenshot](./screenshots/high_mrp_oos.png)  
+
+![High MRP OOS Screenshot](https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20123550.png)  
+
 **Finding:** Premium products are in demand — must be prioritized for restocking.  
+**Conclusion:** Aashirvaad Atta With Multigrains and Everest Kashmiri Lal Chilli Powder are high-MRP products that are out of stock.
 
 ---
 
 ### 3️⃣ Stockout Rates by Category  
-📸 ![Stockout Rate Screenshot](./screenshots/stockout_rate.png)  
-**Finding:** Certain categories face frequent stockouts → supply chain bottlenecks.  
+ ![Stockout Rate Screenshot](https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20123518.png)  
+**Finding:** -Certain categories face frequent stockouts → supply chain bottlenecks. 
+**Conclusion:**  -Biscuits have the highest out-of-stock rate, followed by Beverages and Dairy, Bread & Batter. 
 
 ---
 
 ### 4️⃣ ABC Analysis (Revenue Contribution)  
-📸 ![ABC Analysis Screenshot](./screenshots/abc_analysis.png)  
+ ![ABC Analysis Screenshot](https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20123127.png)  
 **Finding:** ~80% of revenue comes from “A” categories → focus procurement here.  
-
+**Conclusion:** 
+- A-Bucket: Packaged Food, Chocolates & Candies, Ice Cream & Desserts, Munchies, and Cooking Essentialsare critical categories.
+- B-Bucket: Paan Corner, Personal Care, Meats, Fish & Eggs, and Home & Cleaning are the moderate categories.
+- C-Bucket : Beverages, Dairy, Bread & Batter, Biscuits, Health & Hygiene, and Fruits & Vegetables are the low-impact categories.
 ---
 
 ### 5️⃣ Weight-Based Product Segmentation  
-📸 ![Weight Segmentation Screenshot](./screenshots/weight_segmentation.png)  
+ ![Weight Segmentation Screenshot](https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20122612.png)  
 **Finding:** Helps logistics optimize packaging, delivery, and bulk orders.  
-
+**Conclusion:** High-priced products with minimal discounts reflect premium positioning and steady consumer demand, highlighting margin stability.
 ---
 
 ### 6️⃣ Inventory Weight by Category  
