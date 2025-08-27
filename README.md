@@ -28,8 +28,9 @@ It provides actionable analysis for **pricing, inventory, supply chain, and mark
 ## 📊 Key Insights Generated
 
 ### 1️⃣ Top 10 Best-Value Discounted Products  
-📸 ![Top Discounts Screenshot](./screenshots/top_discounts.png)  
+ ![Top Discounts Screenshot](https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20122612.png)  
 **Finding:** Customers benefit most from these deals; businesses may be using them for promotions.  
+**Conclusion:** Products like Dukes Waffy wafers and Ceres instant masalas are offering the steepest ~50% discounts, making them the most attractive bargains for customers.
 
 ---
 
