@@ -52,7 +52,7 @@ It provides actionable analysis for **pricing, inventory, supply chain, and mark
 ---
 
 ### 4️⃣ ABC Analysis (Revenue Contribution)  
- ![ABC Analysis Screenshot]()  
+ ![ABC Analysis Screenshot](https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20123550.png)  
 **Finding:** ~80% of revenue comes from “A” categories → focus procurement here.  
 **Conclusion:** 
 - A-Bucket: Packaged Food, Chocolates & Candies, Ice Cream & Desserts, Munchies, and Cooking Essentialsare critical categories.
@@ -61,7 +61,7 @@ It provides actionable analysis for **pricing, inventory, supply chain, and mark
 ---
 
 ### 5️⃣ Weight-Based Product Segmentation
-![Weight Segmentation Screenshot](https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20122612.png)
+![Weight Segmentation Screenshot]( https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20123615.png)
 
 **Finding:** Helps logistics optimize packaging, delivery, and bulk orders.
 
@@ -93,6 +93,7 @@ Conclusion:Products span low, medium, and bulk weight categories, enabling targe
 ### 9️⃣ Total Inventory Weight by Category
 ![Inventory Weight Screenshot](https://github.com/prernabanthiya/Zepto-analysis/blob/main/Screenshot%202025-08-27%20130122.png
 ) 
+
 Finding: Certain categories dominate warehouse weight → plan storage and handling accordingly.
 
 Conclusion: Munchies and Cooking Essentials dominate total inventory weight, indicating the need for focused warehouse space and efficient handling for bulky categories.
